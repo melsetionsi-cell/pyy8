@@ -1,0 +1,6 @@
+cord_uid,title,doi,publish_time,journal,abstract,authors,url
+abc123,COVID-19 and its global impact,10.1001/jama.2020.12345,2020-03-15,JAMA,This paper discusses the global impact of COVID-19...,Smith J; Doe A,https://doi.org/10.1001/jama.2020.12345
+def456,SARS-CoV-2 vaccine development,10.1016/j.vaccine.2020.54321,2021-06-01,Vaccine,An overview of vaccine development strategies for SARS-CoV-2...,Lee B; Kumar C,https://doi.org/10.1016/j.vaccine.2020.54321
+ghi789,Pandemic preparedness and response,,2019-11-20,Nature,This study analyzes preparedness for pandemics...,Wang X; Patel Y,https://www.nature.com/articles/xyz
+jkl012,Long-term effects of COVID-19,10.1056/NEJMoa2029876,2021-09-10,NEJM,Research on long-term health effects caused by COVID-19...,Brown P; Garcia M,https://doi.org/10.1056/NEJMoa2029876
+mno345,Machine learning in COVID-19 research,,2020-05-25,AI in Medicine,Applications of machine learning in analyzing COVID-19 data...,Johnson T; Singh R,https://aijournal.org/covid19-ml
